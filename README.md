@@ -14,12 +14,12 @@
 * Third Person Support
 * True FPS (Legs &  Feet visible)
 * FOV & Viewmodel FOV changer
-
+* HUD Sway / Parallax
 
 
 
 # To Do
-
+* Custom Modes (Gun Game, Hardcore, etc.)
 
 
 
