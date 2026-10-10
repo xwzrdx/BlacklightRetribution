@@ -10,10 +10,17 @@
 * EXP
 * Rank
 
-# To Do
+# Gameplay Stuff
+* Third Person Support
+* True FPS (Legs &  Feet visible)
 * FOV & Viewmodel FOV changer
-* FPS Unlock
-* True FPS (Legs & Feet)
+
+
+
+
+# To Do
+
+
 
 
 
@@ -23,3 +30,7 @@
 <img width="881" height="677" alt="image" src="https://github.com/user-attachments/assets/6c9e6487-e5b3-4fc9-ab29-1a8913322108" />
 <img width="1588" height="890" alt="image" src="https://github.com/user-attachments/assets/72f4fa4b-4ab4-4a70-ad85-195ef67bf090" />
 <img width="1602" height="900" alt="image" src="https://github.com/user-attachments/assets/c05730e4-419e-48c9-8e14-0d25668cb556" />
+<img width="1577" height="891" alt="image" src="https://github.com/user-attachments/assets/13d723e9-3c6b-450f-a701-b5ab6ed094c4" />
+<img width="1587" height="892" alt="image" src="https://github.com/user-attachments/assets/8ccb3165-2ef5-4e46-96fd-aacc48ee5bfb" />
+<img width="1577" height="870" alt="image" src="https://github.com/user-attachments/assets/1a6b8be6-1b28-45de-b2e2-532d2d5c5568" />
+
