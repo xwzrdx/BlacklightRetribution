@@ -15,6 +15,7 @@
 * True FPS (Legs &  Feet visible)
 * FOV & Viewmodel FOV changer
 * HUD Sway / Parallax
+* Self Player shadow visible
 
 
 
@@ -34,4 +35,5 @@
 <img width="1577" height="891" alt="image" src="https://github.com/user-attachments/assets/13d723e9-3c6b-450f-a701-b5ab6ed094c4" />
 <img width="1587" height="892" alt="image" src="https://github.com/user-attachments/assets/8ccb3165-2ef5-4e46-96fd-aacc48ee5bfb" />
 <img width="1577" height="870" alt="image" src="https://github.com/user-attachments/assets/1a6b8be6-1b28-45de-b2e2-532d2d5c5568" />
+<img width="1425" height="741" alt="image" src="https://github.com/user-attachments/assets/364a56a6-c614-41be-b2d1-0b898b6a45fa" />
 
