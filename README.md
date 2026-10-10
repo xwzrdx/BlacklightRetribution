@@ -6,7 +6,14 @@
 * Wrong username/password validation
 * Nickname already exists
 * Create Character
+* Currencies (ZCoins & GP)
+* EXP
+* Rank
 
+# To Do
+* FOV & Viewmodel FOV changer
+* FPS Unlock
+* True FPS (Legs & Feet)
 
 
 
