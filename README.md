@@ -18,9 +18,10 @@
 
 
 
+
 # To Do
 * Custom Modes (Gun Game, Hardcore, etc.)
-
+* Freely drop/throw weapons
 
 
 
