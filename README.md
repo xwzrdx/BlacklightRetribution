@@ -1,6 +1,9 @@
 # Blacklight Retribution
 
 
+Server Emulator for BLR Steam Ver.
+
+
 
 # Done
 * Wrong username/password validation
@@ -9,6 +12,7 @@
 * Currencies (ZCoins & GP)
 * EXP
 * Rank
+* Prestige Mode
 * Inventory
 * Shop
 
