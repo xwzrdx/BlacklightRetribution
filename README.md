@@ -22,6 +22,7 @@ Server Emulator for BLR Steam Ver.
 * FOV & Viewmodel FOV changer
 * HUD Sway / Parallax
 * Self Player shadow visible
+* Custom Content (Characters)
 
 
 
@@ -44,5 +45,6 @@ Server Emulator for BLR Steam Ver.
 <img width="1425" height="741" alt="image" src="https://github.com/user-attachments/assets/364a56a6-c614-41be-b2d1-0b898b6a45fa" />
 <img width="1577" height="887" alt="image" src="https://github.com/user-attachments/assets/cf5c1464-5cae-436e-86f8-bb9024736f2b" />
 <img width="683" height="647" alt="image" src="https://github.com/user-attachments/assets/a132bc8c-1ef8-4666-9735-b1d23d1ab331" />
+<img width="1583" height="908" alt="image" src="https://github.com/user-attachments/assets/1a234791-5713-48b7-b776-f3d901be2a84" />
 
 
