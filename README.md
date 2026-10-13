@@ -13,6 +13,7 @@ Server Emulator for BLR Steam Ver.
 * EXP
 * Rank
 * Prestige Mode
+* Prestige Rewards for Prestige 1 (All 15 Prestige Items)
 * Inventory
 * Shop
 
@@ -30,6 +31,8 @@ Server Emulator for BLR Steam Ver.
 # To Do
 * Custom Modes (Gun Game, Hardcore, etc.)
 * Freely drop/throw weapons
+* Custom Prestige Rewards for Prestige 2 (Custom Character)
+* Custom Prestige Rewards for Prestige 3 (Custom Character + Weapon Camos)
 
 
 
