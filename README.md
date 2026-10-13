@@ -18,7 +18,8 @@ Server Emulator for BLR Steam Ver.
 * Shop
 
 # Gameplay Stuff
-* Inverse Kinematics
+* Damage Numbers
+* Inverse Kinematics (Feet & Legs adapt to map terrain, stairs/slopes, etc.)
 * Third Person Support
 * True FPS (Legs &  Feet visible)
 * FOV & Viewmodel FOV changer
