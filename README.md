@@ -17,6 +17,8 @@ Server Emulator for BLR Steam Ver.
 * Inventory
 * Shop
 
+
+
 # Gameplay Stuff
 * Damage Numbers
 * Inverse Kinematics (Feet & Legs adapt to map terrain, stairs/slopes, etc.)
@@ -25,7 +27,7 @@ Server Emulator for BLR Steam Ver.
 * FOV & Viewmodel FOV changer
 * HUD Sway / Parallax
 * Self Player shadow visible
-* Custom Content (Characters)
+* Custom Content (Characters, Weapon Skins)
 * Freely drop/throw weapons
 
 
