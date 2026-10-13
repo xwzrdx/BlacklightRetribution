@@ -18,6 +18,7 @@ Server Emulator for BLR Steam Ver.
 * Shop
 
 # Gameplay Stuff
+* Inverse Kinematics
 * Third Person Support
 * True FPS (Legs &  Feet visible)
 * FOV & Viewmodel FOV changer
@@ -37,6 +38,8 @@ Server Emulator for BLR Steam Ver.
 
 
 # Screenshots
+<img width="1068" height="725" alt="image" src="https://github.com/user-attachments/assets/fefd8dcd-5d42-48d0-95a0-b24193985e3d" />
+<img width="907" height="840" alt="image" src="https://github.com/user-attachments/assets/00ff181a-217b-40e9-b652-2997d6ee6550" />
 <img width="1591" height="923" alt="image" src="https://github.com/user-attachments/assets/5cc2b226-0475-4995-8947-91183170d75e" />
 <img width="881" height="677" alt="image" src="https://github.com/user-attachments/assets/6c9e6487-e5b3-4fc9-ab29-1a8913322108" />
 <img width="1588" height="890" alt="image" src="https://github.com/user-attachments/assets/72f4fa4b-4ab4-4a70-ad85-195ef67bf090" />
