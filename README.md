@@ -24,13 +24,12 @@ Server Emulator for BLR Steam Ver.
 * HUD Sway / Parallax
 * Self Player shadow visible
 * Custom Content (Characters)
-
+* Freely drop/throw weapons
 
 
 
 # To Do
 * Custom Modes (Gun Game, Hardcore, etc.)
-* Freely drop/throw weapons
 * Custom Prestige Rewards for Prestige 2 (Custom Character)
 * Custom Prestige Rewards for Prestige 3 (Custom Character + Weapon Camos)
 
