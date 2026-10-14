@@ -30,7 +30,7 @@ Server Emulator for BLR Steam Ver.
 * Self Player shadow visible
 * Custom Content (Characters, Weapon Skins)
 * Freely drop/throw weapons
-* Drag to rotate character in menu
+* Zoom & Drag to rotate character in menu
 
 
 
