@@ -31,6 +31,7 @@ Server Emulator for BLR Steam Ver.
 * Custom Content (Characters, Weapon Skins)
 * Freely drop/throw weapons
 * Zoom & Drag to rotate character in menu
+* Fog 
 
 
 # Custom Modes
