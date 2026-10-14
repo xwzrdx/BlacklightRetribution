@@ -7,6 +7,7 @@ Server Emulator for BLR Steam Ver.
 
 # Done
 * Wrong username/password validation
+* Bans
 * Nickname already exists
 * Create Character
 * Currencies (ZCoins & GP)
@@ -16,6 +17,7 @@ Server Emulator for BLR Steam Ver.
 * Prestige Rewards for Prestige 1 (All 15 Prestige Items)
 * Inventory
 * Shop
+* Missions
 
 
 
