@@ -35,10 +35,12 @@ Server Emulator for BLR Steam Ver.
 
 
 # Custom Modes
-* ``FRIENDLYFIRE`` - Same original gameplay rules, but team-damage enabled
-* ``THIRDPERSON`` - Same original gameplay rules, but everyone is using a third person perspective
-* ``HARDCORE`` - Team-damage enabled, 30 HP, no HUD besides team & enemy names
-* ``CRANKED`` - Same original gameplay rules, but added bunny hop mechanic (consecutively timed jumps increases player speed) and air strafing, additionally on kills you get a 60% movement bonus for 3 seconds
+* ``FRIENDLYFIRE`` - Team-damage enabled
+* ``THIRDPERSON`` - Eeveryone is using a third person perspective
+* ``HARDCORE`` - Team-damage enabled, ``30`` HP, no HUD besides team & enemy names
+* ``CRANKED`` - Bunny Hop mechanic (consecutively timed jumps increases player speed) and Air Strafing, additionally on kills you get a ``60%`` movement bonus for ``3`` seconds
+* ``OVERGROWTH`` - ``+2`` HP on kills, ``-2`` HP on deaths
+* ``LIFESTEAL`` - Heal for the damage dealt to enemies
 
 
 
