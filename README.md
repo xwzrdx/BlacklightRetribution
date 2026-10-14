@@ -23,6 +23,7 @@ Server Emulator for BLR Steam Ver.
 
 # Gameplay Stuff
 * Tick Rate increased to ``64 Hz``
+* Dynamic Viewmodel Adaptation (Corner Slicing / Wall Pushback)
 * Damage Numbers
 * Inverse Kinematics (Feet & Legs adapt to map terrain, stairs/slopes, etc.)
 * Third Person Support
