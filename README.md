@@ -33,9 +33,14 @@ Server Emulator for BLR Steam Ver.
 * Zoom & Drag to rotate character in menu
 
 
+# Custom Modes
+* ``FRIENDLYFIRE`` - Same original gameplay rules, but team-damage enabled
+* ``THIRDPERSON`` - Same original gameplay rules, but everyone is using a third person perspective
+* ``HARDCORE`` - Team-damage enabled, 30 HP, no HUD besides team & enemy names 
+
+
 
 # To Do
-* Custom Modes (Gun Game, Hardcore, etc.)
 * Custom Prestige Rewards for Prestige 2 (Custom Character)
 * Custom Prestige Rewards for Prestige 3 (Custom Character + Weapon Camos)
 
