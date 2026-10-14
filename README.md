@@ -38,7 +38,8 @@ Server Emulator for BLR Steam Ver.
 * ``FRIENDLYFIRE`` - Team-damage enabled
 * ``THIRDPERSON`` - Eeveryone is using a third person perspective
 * ``HARDCORE`` - Team-damage enabled, ``30`` HP, no HUD besides team & enemy names
-* ``CRANKED`` - Bunny Hop mechanic (consecutively timed jumps increases player speed) and Air Strafing, additionally on kills you get a ``60%`` movement bonus for ``3`` seconds
+* ``CRANKED`` - Bunny Hopping, Air Strafing, Double Jumping, additionally on kills you get a ``60%`` movement bonus for ``3`` seconds
+* <sup><sub>Bunny Hopping: Consecutively timed jumps increases player speed.</sub></sup>
 * ``OVERGROWTH`` - ``+2`` HP on kills, ``-2`` HP on deaths
 * ``LIFESTEAL`` - Heal for the damage dealt to enemies
 
