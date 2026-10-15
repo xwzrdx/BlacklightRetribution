@@ -3,6 +3,8 @@
 
 Server Emulator for BLR Steam Ver.
 
+Discord: ``wzrd0001``
+
 
 
 # Done
